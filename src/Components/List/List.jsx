@@ -11,15 +11,18 @@ const List = ({ places, childClicked, isLoading, type, setType, rating, setRatin
 
     useEffect(() => {
         if (places && places.length) {
-            const refs = Array(places.length).fill().map((_, i) => elRefs[i] || createRef());
-
+            const refs = Array(places.length)
+                .fill()
+                .map((_, i) => elRefs[i] || createRef());
+            console.log(refs);
             setElRefs(refs);
         }
+        // eslint-disable-next-line
     }, [places]);
 
     return (
         <div className={classes.container}>
-            <Typography variant='h4'>Restaurants, Hotels & Attraction around you</Typography>
+            <Typography variant='h4'>Restaurants, Hotels & Attractions around you</Typography>
             {isLoading ? (
                 <div className={classes.loading}>
                     <CircularProgress size='5rem'></CircularProgress>
