@@ -9,7 +9,11 @@ REACT_APP_GOOGLE_MAPS_API_KEY=YOUR_KEY
 REACT_APP_RAPIDAPI_KEY=YOUR_KEY
 
 
-get the apis key from:
+# get the apis key from:
+
 google map api - go to https://console.cloud.google.com/ and search for Google Map API
+
 rapidapi - go to https://rapidapi.com/ and search for OpenWeatherMap API and Travel Advisor.
+
 get the apis and paste it in the .env file.
+
