@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.js": "/travel_advisor/static/js/main.ec0d7c8b.chunk.js",
-    "main.js.map": "/travel_advisor/static/js/main.ec0d7c8b.chunk.js.map",
+    "main.js": "/travel_advisor/static/js/main.52a6e3d3.chunk.js",
+    "main.js.map": "/travel_advisor/static/js/main.52a6e3d3.chunk.js.map",
     "runtime-main.js": "/travel_advisor/static/js/runtime-main.297c729e.js",
     "runtime-main.js.map": "/travel_advisor/static/js/runtime-main.297c729e.js.map",
     "static/js/2.3d325924.chunk.js": "/travel_advisor/static/js/2.3d325924.chunk.js",
     "static/js/2.3d325924.chunk.js.map": "/travel_advisor/static/js/2.3d325924.chunk.js.map",
     "index.html": "/travel_advisor/index.html",
-    "precache-manifest.711faee1186d07c331065f7c8a5a5a71.js": "/travel_advisor/precache-manifest.711faee1186d07c331065f7c8a5a5a71.js",
+    "precache-manifest.457ebf6f6f5b9d6008ac685ab5b2acdb.js": "/travel_advisor/precache-manifest.457ebf6f6f5b9d6008ac685ab5b2acdb.js",
     "service-worker.js": "/travel_advisor/service-worker.js",
     "static/js/2.3d325924.chunk.js.LICENSE.txt": "/travel_advisor/static/js/2.3d325924.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.297c729e.js",
     "static/js/2.3d325924.chunk.js",
-    "static/js/main.ec0d7c8b.chunk.js"
+    "static/js/main.52a6e3d3.chunk.js"
   ]
 }
