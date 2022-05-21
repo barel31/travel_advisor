@@ -3,8 +3,11 @@ Travel Advisor help find restaurants/hotels and intresting locations within spec
 
 # Environment variables
 Creata .env file that contains:
+
 REACT_APP_GOOGLE_MAPS_API_KEY=YOUR_KEY
+
 REACT_APP_RAPIDAPI_KEY=YOUR_KEY
+
 
 get the apis key from:
 google map api - go to https://console.cloud.google.com/ and search for Google Map API
