@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "4d6cd1693f9dc6cd3f0e3728e62297b6",
+    "revision": "f501216a92a92f6a80145b57de00b6eb",
     "url": "/travel_advisor/index.html"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/travel_advisor/static/js/2.3d325924.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "678e8c6a64815ec0a60f",
-    "url": "/travel_advisor/static/js/main.f207e370.chunk.js"
+    "revision": "4bb36d1db1f93ee9d13f",
+    "url": "/travel_advisor/static/js/main.ec0d7c8b.chunk.js"
   },
   {
     "revision": "4602604ca5c4b8d40873",
